@@ -1,6 +1,6 @@
 <h1>Hello, I'm Zachary!
 
-[Brief Introduction]
+<h2>[Brief Introduction]
 
 As a recent graduate, I am dedicated to excelling in my IT journey professionally. I am well-positioned to succeed in the technology and cybersecurity fields with my proactive problem-solving approach.
 

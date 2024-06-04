@@ -1,6 +1,6 @@
 <h1>Hello, I'm Zachary!
 
-<h2>[Brief Introduction]
+<h2>Brief Introduction<h2>
 
 As a recent graduate, I am dedicated to excelling in my IT journey professionally. I am well-positioned to succeed in the technology and cybersecurity fields with my proactive problem-solving approach.
 
@@ -30,10 +30,13 @@ Successfully created and tested alert rules for detecting specific security even
     - [ITIL 4 Foundation](insertlink.com)
     - [TestOut PC Pro](insertlink.com)
 
+
+
 🔭 I’m currently working on obtaining my CompTia A+ and CompTia Security+ certifications.
+
 🌱 I’m currently learning more about cybersecurity and technology every single day to better my understanding and advance my technical skills.
 
-<h2> 🤳 Connect with me:</h2>
+<h2> Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]

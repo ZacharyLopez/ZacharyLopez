@@ -25,13 +25,13 @@ Successfully created and tested alert rules for detecting specific security even
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Disk Cloning and Migration:
-Successfully cloned hard drives to SSDs, ensuring seamless data transfer and system functionality.
+Successfully cloned hard drives to SSDs, ensuring seamless data transfer and system functionality.</b>
 
 - <b>Hardware Installation and Upgrades:
-- Installed and configured RAM sticks, optimizing system performance and memory utilization.
-- Installed and configured new SSD and M.2 drives, significantly improving system speed and reliability. Applied thermal management techniques by installing heat sinks on M.2 drives to prevent overheating and 
+Installed and configured RAM sticks, optimizing system performance and memory utilization.
+Installed and configured new SSD and M.2 drives, significantly improving system speed and reliability. Applied thermal management techniques by installing heat sinks on M.2 drives to prevent overheating and 
 ensure stable operation.
-- Replaced and installed new laptop batteries, extending device lifespan and enhancing portable power management.
+Replaced and installed new laptop batteries, extending device lifespan and enhancing portable power management.</b>
 
 - <b>Certifications
     - [CompTia A+](insertlink.com) (In Progress)

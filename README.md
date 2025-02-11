@@ -36,7 +36,6 @@ Replaced and installed new laptop batteries, extending device lifespan and enhan
 - <b>Certifications
     - [CompTia A+](insertlink.com) (In Progress)
     - [Comptia Security+](insertlink.com) (In Progress)
-    - [ITIL 4 Foundation](insertlink.com)
     - [TestOut PC Pro](insertlink.com)
 
 
@@ -51,6 +50,6 @@ Replaced and installed new laptop batteries, extending device lifespan and enhan
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com/NeverStopZak/
-[linkedin]: https://www.linkedin.com/in/zachary-lopez-6a4a4b2b9/
+[linkedin]: https://www.linkedin.com/in/0x1zlopez
 
 

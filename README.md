@@ -34,7 +34,7 @@ ensure stable operation.
 Replaced and installed new laptop batteries, extending device lifespan and enhancing portable power management.</b>
 
 - <b>Certifications
-    - [CompTia A+](insertlink.com) (In Progress)
+    - [CompTia A+](insertlink.com)
     - [Comptia Security+](insertlink.com) (In Progress)
     - [TestOut PC Pro](insertlink.com)
 

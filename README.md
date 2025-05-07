@@ -1,55 +1,78 @@
-<h1>Hello, I'm Zachary!
+# 👋 Hello, I'm Zachary Lopez
 
-<h2>Brief Introduction<h2>
+## ☁️ Aspiring Cloud Architect | IT & Cybersecurity Enthusiast
 
-As a recent graduate, I am dedicated to excelling in my IT journey professionally. I am well-positioned to succeed in the technology and cybersecurity fields with my proactive problem-solving approach.
+I'm currently attending **Western Governors University (WGU)** to earn my Bachelor's in Information Technology. With a strong foundation in IT support and cybersecurity, I'm now focused on building the skills needed to architect scalable, secure cloud solutions. My long-term goal is to become a **Cloud Architect** and contribute to modern infrastructure transformation in enterprise environments.
 
-## Objective
+---
 
-My experience with information technology has led me to realize that cybersecurity is my true passion. I'm eager to move into this industry and have the goal of becoming a Tier 1 Analyst in a Security Operations Center (SOC). 
+## 🎯 Career Objective
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+While I began with a passion for cybersecurity, I’ve transitioned my focus toward cloud computing. I’m dedicated to designing and managing efficient, secure cloud environments and am currently preparing for roles that align with AWS, Azure, and DevOps technologies.
 
-- <b>Elastic Stack SIEM Configuration and Management: 
-Successfully set up and configured Elastic Stack SIEM in a home lab environment. 
-Demonstrated proficiency in deploying a Kali Linux VM, configuring Elastic Agents for log collection, and forwarding data to the SIEM for effective security event monitoring.</b>
+---
 
-- <b>Security Event Simulation and Analysis: 
-Acquired hands-on experience in generating and analyzing security events using Nmap on Kali Linux. 
-Proficient in querying Elastic SIEM to identify and investigate security incidents, enhancing skills in network security monitoring and threat detection.</b>
+## ☁️ Cybersecurity & Cloud Projects
 
-- <b>Visualization and Alerting in SIEM: 
-Developed a custom dashboard in Elastic SIEM to visualize security events, demonstrating skills in data interpretation and pattern recognition. 
-Successfully created and tested alert rules for detecting specific security events, showing competency in proactive incident response and alert management.</b>
-  
-<h2>👨‍💻 Information Technology Projects:</h2>
+- **Elastic Stack SIEM Setup**  
+  Deployed and configured Elastic Stack SIEM in a home lab. Installed and monitored a Kali Linux VM with Elastic Agents for real-time log collection and event analysis.
 
-- <b>Disk Cloning and Migration:
-Successfully cloned hard drives to SSDs, ensuring seamless data transfer and system functionality.</b>
+- **Security Event Simulation & Analysis**  
+  Conducted port scans using Nmap from Kali Linux and analyzed security logs in Elastic SIEM. Gained experience identifying anomalies and conducting basic incident investigations.
 
-- <b>Hardware Installation and Upgrades:
-Installed and configured RAM sticks, optimizing system performance and memory utilization.
-Installed and configured new SSD and M.2 drives, significantly improving system speed and reliability. Applied thermal management techniques by installing heat sinks on M.2 drives to prevent overheating and 
-ensure stable operation.
-Replaced and installed new laptop batteries, extending device lifespan and enhancing portable power management.</b>
+- **SIEM Visualization & Alerting**  
+  Built custom dashboards and alert rules in Elastic SIEM to detect suspicious activity. Demonstrated skills in log interpretation, threat hunting, and incident response simulation.
 
-- <b>Certifications
-    - [CompTia A+](insertlink.com)
-    - [Comptia Security+](insertlink.com) (In Progress)
-    - [TestOut PC Pro](insertlink.com)
+---
 
+## 💻 IT Projects
 
+- **Disk Cloning & System Migration**  
+  Cloned hard drives to SSDs to improve system performance and reliability during migrations.
 
-🔭 I’m currently working on obtaining my CompTia A+ and CompTia Security+ certifications.
+- **Hardware Upgrades & Maintenance**  
+  - Installed RAM and SSDs (including M.2 drives) with thermal management considerations.  
+  - Replaced laptop batteries and optimized system hardware for better performance and longevity.
 
-🌱 I’m currently learning more about cybersecurity and technology every single day to better my understanding and advance my technical skills.
+---
 
-<h2> Connect with me:</h2>
+## 📜 Certifications
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- **CompTIA A+** – Issued April 2025  
+- **ITIL® 4 Foundation** – Issued May 2025  
+- **TestOut PC Pro**  
+- **CompTIA Security+** – *In Progress*  
+- **CompTIA Network+** – *In Progress (Target: May 2025)*
 
-[instagram]: https://www.instagram.com/NeverStopZak/
-[linkedin]: https://www.linkedin.com/in/0x1zlopez
+---
 
+## 🎓 Education
 
+- **Bachelor of Science in Information Technology**  
+  *Western Governors University (WGU)* — *In Progress (Expected 2026)*
+
+- **Associate of Applied Business in Information Technology**  
+  *Eastern Gateway Community College* — *Completed*
+
+- **Cloud Computing Certificate of Completion**  
+  *Long Beach City College* — *Planned Enrollment After WGU Graduation*
+
+---
+
+## 🌱 Currently Learning
+
+I'm actively building expertise in:
+- AWS and Azure fundamentals  
+- Infrastructure as Code (Terraform, CloudFormation)  
+- CompTIA Security+ and Network+ exam preparation  
+- Cloud architecture design & deployment  
+
+---
+
+## 🔗 Connect With Me
+
+- 📧 Email: [your.email@example.com]  
+- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
+- 🌐 Portfolio: [yourportfolio.com] *(if you have one)*  
+
+Thanks for visiting my GitHub!

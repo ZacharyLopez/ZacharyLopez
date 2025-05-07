@@ -15,13 +15,13 @@ While I began with a passion for cybersecurity, I’ve transitioned my focus tow
 ## ☁️ Cybersecurity & Cloud Projects
 
 - **Elastic Stack SIEM Setup**  
-  Deployed and configured Elastic Stack SIEM in a home lab. Installed and monitored a Kali Linux VM with Elastic Agents for real-time log collection and event analysis.
+  - Deployed and configured Elastic Stack SIEM in a home lab. Installed and monitored a Kali Linux VM with Elastic Agents for real-time log collection and event           analysis.
 
 - **Security Event Simulation & Analysis**  
-  Conducted port scans using Nmap from Kali Linux and analyzed security logs in Elastic SIEM. Gained experience identifying anomalies and conducting basic incident investigations.
+  - Conducted port scans using Nmap from Kali Linux and analyzed security logs in Elastic SIEM. Gained experience identifying anomalies and conducting basic incident      investigations.
 
 - **SIEM Visualization & Alerting**  
-  Built custom dashboards and alert rules in Elastic SIEM to detect suspicious activity. Demonstrated skills in log interpretation, threat hunting, and incident response simulation.
+  - Built custom dashboards and alert rules in Elastic SIEM to detect suspicious activity. Demonstrated skills in log interpretation, threat hunting, and incident         response simulation.
 
 ---
 
@@ -39,12 +39,12 @@ While I began with a passion for cybersecurity, I’ve transitioned my focus tow
 ## 📜 Certifications
 
 - **CompTIA A+** – Issued April 2025
-  [View Credential]([https://www.credly.com](https://www.credly.com/badges/7e6688ec-8721-4abe-9e2b-7b88b2db367d)) 
+  [View Credential](https://www.credly.com/badges/7e6688ec-8721-4abe-9e2b-7b88b2db367d) 
 - **CompTIA Network+** – *In Progress (Target: May 2025)*
 - **CompTIA Security+** – *In Progress*  
 - **ITIL® 4 Foundation** – Issued May 2025  
 - **TestOut PC Pro** - Issued Dec 2021
-   [View Credential]([https://www.credly.com](https://certification.platform.comptia.org/verifycert/6-1C6-HR687))   
+   [View Credential](https://certification.platform.comptia.org/verifycert/6-1C6-HR687)   
 
 ---
 

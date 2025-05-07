@@ -38,21 +38,21 @@ While I began with a passion for cybersecurity, I’ve transitioned my focus tow
 
 ## 📜 Certifications
 
-- **CompTIA A+** – Issued April 2025  
-- **ITIL® 4 Foundation** – Issued May 2025  
-- **TestOut PC Pro**  
-- **CompTIA Security+** – *In Progress*  
+- **CompTIA A+** – Issued April 2025
 - **CompTIA Network+** – *In Progress (Target: May 2025)*
+- **CompTIA Security+** – *In Progress*  
+- **ITIL® 4 Foundation** – Issued May 2025  
+- **TestOut PC Pro** - Issued Dec 2021  
 
 ---
 
 ## 🎓 Education
 
-- **Bachelor of Science in Information Technology**  
-  *Western Governors University (WGU)* — *In Progress (Expected 2026)*
-
 - **Associate of Applied Business in Information Technology**  
   *Eastern Gateway Community College* — *Completed*
+
+  - **Bachelor of Science in Information Technology**  
+  *Western Governors University (WGU)* — *In Progress (Expected 2026)*
 
 - **Cloud Computing Certificate of Completion**  
   *Long Beach City College* — *Planned Enrollment After WGU Graduation*
@@ -71,8 +71,7 @@ I'm actively building expertise in:
 
 ## 🔗 Connect With Me
 
-- 📧 Email: [your.email@example.com]  
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
-- 🌐 Portfolio: [yourportfolio.com] *(if you have one)*  
+- 📧 Email: [zach26686@gmail.com]  
+- 💼 LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/zachary-lopez-6a4a4b2b9/)   
 
 Thanks for visiting my GitHub!

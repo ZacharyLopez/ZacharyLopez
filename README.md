@@ -39,10 +39,12 @@ While I began with a passion for cybersecurity, I’ve transitioned my focus tow
 ## 📜 Certifications
 
 - **CompTIA A+** – Issued April 2025
+  [View Credential]([https://www.credly.com](https://www.credly.com/badges/7e6688ec-8721-4abe-9e2b-7b88b2db367d)) 
 - **CompTIA Network+** – *In Progress (Target: May 2025)*
 - **CompTIA Security+** – *In Progress*  
 - **ITIL® 4 Foundation** – Issued May 2025  
-- **TestOut PC Pro** - Issued Dec 2021  
+- **TestOut PC Pro** - Issued Dec 2021
+   [View Credential]([https://www.credly.com](https://certification.platform.comptia.org/verifycert/6-1C6-HR687))   
 
 ---
 
@@ -54,7 +56,7 @@ While I began with a passion for cybersecurity, I’ve transitioned my focus tow
 - **Bachelor of Science in Information Technology**  
   *Western Governors University (WGU)* — *In Progress (Expected 2026)*
 
-- **Cloud Computing Certificate of Completion**  
+- **Cloud Computing Certificate of Achievement**  
   *Long Beach City College* — *Planned Enrollment After WGU Graduation*
 
 ---

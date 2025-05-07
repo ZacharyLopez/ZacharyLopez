@@ -51,7 +51,7 @@ While I began with a passion for cybersecurity, I’ve transitioned my focus tow
 - **Associate of Applied Business in Information Technology**  
   *Eastern Gateway Community College* — *Completed*
 
-  - **Bachelor of Science in Information Technology**  
+- **Bachelor of Science in Information Technology**  
   *Western Governors University (WGU)* — *In Progress (Expected 2026)*
 
 - **Cloud Computing Certificate of Completion**  
@@ -71,7 +71,7 @@ I'm actively building expertise in:
 
 ## 🔗 Connect With Me
 
-- 📧 Email: [zach26686@gmail.com]  
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/zachary-lopez-6a4a4b2b9/)   
+- 📧 Email: zach26686@gmail.com
+- 💼 LinkedIn: [Profile](https://www.linkedin.com/in/zachary-lopez-6a4a4b2b9/)   
 
 Thanks for visiting my GitHub!

@@ -40,11 +40,15 @@ While I began with a passion for cybersecurity, I’ve transitioned my focus tow
 
 - **CompTIA A+** – Issued April 2025
   [View Credential](https://www.credly.com/badges/7e6688ec-8721-4abe-9e2b-7b88b2db367d) 
-- **CompTIA Network+** – *In Progress (Target: May 2025)*
+- **CompTIA Network+** – Issued June 2025
+  [View Credential](https://www.credly.com/earner/earned/badge/e457ecc0-d112-4fd5-9eb7-4f5d525a6adc) 
 - **CompTIA Security+** – *In Progress*  
-- **ITIL® 4 Foundation** – Issued May 2025  
-- **TestOut PC Pro** - Issued Dec 2021
-   [View Credential](https://certification.platform.comptia.org/verifycert/6-1C6-HR687)   
+- **ITIL® 4 Foundation** – Issued May 2025
+  [View Credential](https://drive.google.com/file/d/1LqIQu5CAI2WaeRd1oaMurxVdMkKTmME-/view)
+- **Microsoft Certified: Azure Fundamentals** - Issued June 2025
+  [View Credential](https://learn.microsoft.com/en-us/users/0x1zak/credentials/222d66ebd724922e?ref=https%3A%2F%2Fwww.google.com%2F)
+- - **TestOut PC Pro** - Issued Dec 2021
+  [View Credential](https://certification.platform.comptia.org/verifycert/6-1C6-HR687)   
 
 ---
 
@@ -56,8 +60,8 @@ While I began with a passion for cybersecurity, I’ve transitioned my focus tow
 - **Bachelor of Science in Information Technology**  
   *Western Governors University (WGU)* — *In Progress (Expected 2026)*
 
-- **Cloud Computing Certificate of Achievement**  
-  *Long Beach City College* — *Planned Enrollment After WGU Graduation*
+- **DevOps Engineering, Software Engineering – M.S.**  
+  *Western Governors University (WGU)* — *Planned Enrollment After WGU Graduation*
 
 ---
 
@@ -66,7 +70,7 @@ While I began with a passion for cybersecurity, I’ve transitioned my focus tow
 I'm actively building expertise in:
 - AWS and Azure fundamentals  
 - Infrastructure as Code (Terraform, CloudFormation)  
-- CompTIA Security+ and Network+ exam preparation  
+- CompTIA Security+ exam preparation  
 - Cloud architecture design & deployment  
 
 ---

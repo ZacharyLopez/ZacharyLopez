@@ -27,7 +27,7 @@ While I began with a passion for cybersecurity, I’ve transitioned my focus tow
 ## 💻 IT Projects
 
 - **Disk Cloning & System Migration**  
-  Cloned hard drives to SSDs to improve system performance and reliability during migrations.
+  Cloned hard drives to SSDs to improve system performance and reliability.
 
 - **Hardware Upgrades & Maintenance**  
   Installed RAM and SSDs (including M.2 drives) with thermal management considerations.  
@@ -37,6 +37,9 @@ While I began with a passion for cybersecurity, I’ve transitioned my focus tow
 
 ## 📜 Certifications
 
+- **AWS Certified Cloud Practitioner** – *Issued September 2025*  
+  [View Credential](https://www.credly.com/badges/6f54752b-899e-417c-aded-5e99040e35e1/public_url)
+  
 - **CompTIA A+** – *Issued April 2025*  
   [View Credential](https://www.credly.com/badges/7e6688ec-8721-4abe-9e2b-7b88b2db367d)
 

@@ -65,7 +65,7 @@ While I began with a passion for cybersecurity, I’ve transitioned my focus tow
   *Eastern Gateway Community College* — *Completed January 2024*
 
 - **Bachelor of Science in Information Technology**  
-  *Western Governors University (WGU)* — *Expected January 2026*
+  *Western Governors University (WGU)* — *Expected April 2026*
 
 - **Master of Science: DevOps Engineering / Software Engineering**  
   *Western Governors University (WGU)* — *Planned (Post-Bachelor)*

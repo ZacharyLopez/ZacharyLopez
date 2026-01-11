@@ -1,11 +1,12 @@
 # Zachary Lopez  
 ### IT Specialist • Systems Administration • Cloud Operations
 
-Bachelor of Science in Information Technology candidate at Western Governors University.  
-Hands-on experience in IT support, Windows Server administration, networking, and security fundamentals.  
-Focused on building real-world skills for IT Specialist, SysAdmin, and Cloud Administrator roles.
+Bachelor of Science in Information Technology candidate at Western Governors University.
+Hands-on experience in IT support, Windows Server administration, networking, and endpoint troubleshooting.
+Focused on building real-world skills for IT Support and Systems Administration roles.
 
-Long-term goal is to design and manage secure, scalable enterprise cloud infrastructure.
+Long-term goal is to grow into a Cloud Architect role designing secure, scalable enterprise infrastructure.
+
 
 ---
 

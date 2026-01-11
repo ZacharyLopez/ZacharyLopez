@@ -26,6 +26,10 @@ While I began with a passion for cybersecurity, I’ve transitioned my focus tow
 
 ## 💻 IT Projects
 
+**Active Directory Enterprise Lab (Windows Server 2022)**  
+Deployed a full domain environment with AD DS, DNS, DHCP, NAT routing, and PowerShell user automation.  
+➡️ View Project: https://github.com/ZacharyLopez/active-directory-enterprise-lab
+
 - **Disk Cloning & System Migration**  
   Cloned hard drives to SSDs to improve system performance and reliability.
 

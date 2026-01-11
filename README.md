@@ -98,9 +98,9 @@ Created alert rules and practiced basic incident investigation.
 Western Governors University  
 Expected Graduation April 2026  
 
-**Associate of Applied Business in Information Technology**  
+**Associate of Technical Studies in Information Technology**  
 Eastern Gateway Community College  
-Completed January 2024  
+Completed December 2023
 
 ---
 

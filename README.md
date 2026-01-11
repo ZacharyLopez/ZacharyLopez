@@ -22,29 +22,31 @@ Long-term goal is to design and manage secure, scalable enterprise cloud infrast
 ## Technical Stack
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/proxmox/proxmox-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/virtualbox/virtualbox-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="48"/>
+<img src="https://img.icons8.com/color/48/microsoft-office-2019.png" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-plain.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48"/>
+<img src="https://img.icons8.com/color/48/amazon-web-services.png" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/proxmox/proxmox-original.svg" width="48"/>
 </p>
+
 
 **Platforms and Tools**
 
 Windows Server • Active Directory • DNS • DHCP • SCCM • Microsoft 365 • Entra ID  
 Elastic SIEM • Kali Linux • Nmap • Wireshark • Proxmox • VirtualBox  
-AWS • Azure • PowerShell • Terraform
+AWS • Azure • PowerShell (command-line administration, basic automation)
+
+---
+
+💡 **Hands-on IT lab environments focused on Windows Server administration, Active Directory identity management, endpoint support, networking services, and security monitoring. Built to simulate real enterprise infrastructure and troubleshooting workflows.**
 
 ---
 
 ## Featured Projects
 
 ### Active Directory Enterprise Lab  
-**Windows Server 2022 | AD DS | DNS | DHCP | NAT | PowerShell Automation**
+**Windows Server 2022 | AD DS | DNS | DHCP | NAT | PowerShell Administration**
 
 Built a full enterprise-style domain environment in a virtualized homelab.  
 Implemented directory services, network services, and automated user provisioning.  

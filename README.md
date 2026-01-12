@@ -40,7 +40,7 @@ AWS • Azure • PowerShell (command-line administration, basic automation)
 
 ---
 
-💡 **Hands-on IT lab environments focused on Windows Server administration, Active Directory identity management, endpoint support, networking services, and security monitoring. Built to simulate real enterprise infrastructure and troubleshooting workflows.**
+**Hands-on IT lab environments focused on Windows Server administration, Active Directory identity management, endpoint support, networking services, and security monitoring. Built to simulate real enterprise infrastructure and troubleshooting workflows.**
 
 ---
 

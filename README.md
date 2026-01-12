@@ -44,7 +44,7 @@ AWS • Azure • PowerShell (command-line administration, basic automation)
 
 ---
 
-## Featured Projects
+## Projects
 
 ### Active Directory Enterprise Lab  
 **Windows Server 2022 | AD DS | DNS | DHCP | NAT | PowerShell Administration**

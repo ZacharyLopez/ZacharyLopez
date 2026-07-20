@@ -87,8 +87,9 @@ Created alert rules and practiced basic incident investigation.
 | Microsoft 365 Fundamentals (MS-900) | Issued 2025 | [Verify](https://learn.microsoft.com/en-us/users/0x1zak/credentials/515b1add3fe43aac) |
 | ITIL 4 Foundation | Issued May 2025 | [Verify](https://drive.google.com/file/d/1LqIQu5CAI2WaeRd1oaMurxVdMkKTmME-/view) |
 | TestOut PC Pro | Issued Dec 2021 | [Verify](https://certification.platform.comptia.org/verifycert/6-1C6-HR687) |
+| CompTIA Project+ | Issued Mar 2026 | [Verify](https://www.credly.com/badges/de97f8fe-60c3-4ff7-9f4a-cd8d82c0aa6d/linked_in_profile) |
 | CompTIA Security+ | In Progress | — |
-| CompTIA Project+ | In Progress | — |
+
 
 ---
 
@@ -96,7 +97,7 @@ Created alert rules and practiced basic incident investigation.
 
 **Bachelor of Science in Information Technology**  
 Western Governors University  
-Expected Graduation April 2026  
+Expected Graduation Nov 2026  
 
 **Associate of Technical Studies in Information Technology**  
 Eastern Gateway Community College  

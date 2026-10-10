@@ -49,7 +49,6 @@ Built an enterprise-style Windows domain environment using virtualization to sim
 
 **Skills:** Windows Server, Active Directory, Networking, PowerShell, Identity Management
 
-[View Project Repository](https://github.com/ZacharyLopez/active-directory-enterprise-lab)
 
 ### Elastic Stack SIEM Home Lab
 
@@ -103,7 +102,7 @@ Experience supporting business users in managed IT environments, resolving techn
 
 | Certification | Earned | Verification |
 | --- | --- | --- |
-| **CompTIA Security+** | Aug 2026 | [View Credential](https://www.credly.com/earner/earned/badge/39e5858a-e1df-45b9-814d-39bed4cec45b) |
+| **CompTIA Security+** | Aug 2026 | [View Credential](https://www.credly.com/badges/39e5858a-e1df-45b9-814d-39bed4cec45b/public_url) |
 | **CompTIA Network+** | Jun 2025 | [View Credential](https://www.credly.com/earner/earned/badge/e457ecc0-d112-4fd5-9eb7-4f5d525a6adc) |
 | **CompTIA A+** | Apr 2025 | [View Credential](https://www.credly.com/badges/7e6688ec-8721-4abe-9e2b-7b88b2db367d) |
 | **CompTIA Project+** | Mar 2026 | [View Credential](https://www.credly.com/badges/de97f8fe-60c3-4ff7-9f4a-cd8d82c0aa6d/linked_in_profile) |

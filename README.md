@@ -1,131 +1,183 @@
-# Zachary Lopez  
-### IT Specialist • Systems Administration • Cloud Operations
+Zachary Lopez
 
-Bachelor of Science in Information Technology candidate at Western Governors University.
-Hands-on experience in IT support, Windows Server administration, networking, and endpoint troubleshooting.
-Focused on building real-world skills for IT Support and Systems Administration roles.
+Systems Administration | Cloud Infrastructure | Cybersecurity
 
-Long-term goal is to grow into a Cloud Architect role designing secure, scalable enterprise infrastructure.
+IT professional with experience supporting enterprise environments, administering Microsoft 365, troubleshooting Windows systems, and resolving identity, endpoint, and network issues. Hands-on projects include deploying Windows Server and Active Directory environments, configuring core network services, building SIEM monitoring labs, and using PowerShell for administration and automation.
 
+Currently completing a Bachelor of Science in Information Technology at Western Governors University (expected November 2026), with certifications including CompTIA Security+, Network+, A+, AWS Certified Cloud Practitioner, Microsoft Azure Fundamentals, and Microsoft 365 Fundamentals.
 
----
+Career Focus: Systems Administration • Cloud Infrastructure • Identity and Access Management • Cybersecurity
 
-## Core Focus Areas
+⸻
 
-• Windows Server and Active Directory administration  
-• User provisioning and access control  
-• Endpoint support and troubleshooting  
-• Network services and connectivity  
-• Cloud identity and access management  
+Technical Skills
 
----
+Category	Technologies & Tools
+Operating Systems	Windows 10/11, Windows Server 2022, Linux
+Identity & Access Management	Active Directory, Microsoft Entra ID, Group Policy, User Provisioning, MFA
+Microsoft Ecosystem	Microsoft 365, Exchange Online, Teams, SharePoint, OneDrive
+Networking	TCP/IP, DNS, DHCP, VPN, NAT, Network Troubleshooting
+Cloud Platforms	Microsoft Azure, AWS
+Security & Monitoring	Elastic SIEM, Kali Linux, Nmap, Wireshark, Endpoint Security
+Virtualization	Proxmox, VirtualBox
+Scripting & Administration	PowerShell, Windows Command Line
+Hardware & Endpoints	PC Diagnostics, Hardware Upgrades, Disk Cloning, Windows Troubleshooting
 
-## Technical Stack
+⸻
+
+Technical Stack
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="48"/>
-<img src="https://img.icons8.com/color/48/microsoft-office-2019.png" width="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-plain.svg" width="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48"/>
-<img src="https://img.icons8.com/color/48/amazon-web-services.png" width="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/proxmox/proxmox-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="45" alt="Windows"/>
+<img src="https://img.icons8.com/color/48/microsoft-office-2019.png" width="45" alt="Microsoft 365"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-plain.svg" width="45" alt="PowerShell"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" alt="Linux"/>
+<img src="https://img.icons8.com/color/48/amazon-web-services.png" width="45" alt="AWS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/proxmox/proxmox-original.svg" width="45" alt="Proxmox"/>
 </p>
 
+⸻
 
-**Platforms and Tools**
+Professional IT Experience
 
-Windows Server • Active Directory • DNS • DHCP • SCCM • Microsoft 365 • Entra ID  
-Elastic SIEM • Kali Linux • Nmap • Wireshark • Proxmox • VirtualBox  
-AWS • Azure • PowerShell (command-line administration, basic automation)
+My professional experience includes supporting business users in managed IT environments, troubleshooting enterprise applications and Windows endpoints, administering Microsoft 365 services, resolving identity and access issues, and diagnosing network and connectivity problems.
 
----
+Selected responsibilities and outcomes:
 
-**Hands-on IT lab environments focused on Windows Server administration, Active Directory identity management, endpoint support, networking services, and security monitoring. Built to simulate real enterprise infrastructure and troubleshooting workflows.**
+* Provided technical support for Windows 10/11 workstations, business applications, printers, peripherals, and user devices.
+* Diagnosed hardware failures, application errors, performance issues, authentication problems, and connectivity interruptions to restore user productivity.
+* Supported Microsoft 365 services, including Exchange Online, Teams, SharePoint, and OneDrive, by assisting with access, configuration, and user issues.
+* Assisted with user account administration, password resets, access requests, onboarding, and offboarding procedures.
+* Troubleshot VPN, DNS, DHCP, TCP/IP, and remote-access issues using structured diagnostic methods.
+* Investigated endpoint and application issues by gathering user information, reproducing problems, reviewing system behavior, and applying documented fixes.
+* Installed, configured, maintained, and replaced workstation hardware, including storage, memory, batteries, and peripheral devices.
+* Created and maintained technical documentation, troubleshooting procedures, and user guidance, contributing to faster resolution times and improved knowledge transfer across the support team.
+* Documented incidents, troubleshooting steps, resolutions, and follow-up actions in service-management or ticketing workflows.
+* Escalated complex infrastructure, security, and application issues with clear technical notes and relevant diagnostic information.
+* Communicated technical solutions to users with different levels of technical knowledge while maintaining a professional support experience.
+* Followed established security, access-control, change-management, and documentation procedures when supporting users and systems.
 
----
+Experience areas: End-User Support, Microsoft 365 Administration, Windows Troubleshooting, Identity and Access Management, Hardware Support, Network Connectivity, Technical Documentation, Incident Resolution, and IT Service Management.
 
-## Projects
+⸻
 
-### Active Directory Enterprise Lab  
-**Windows Server 2022 | AD DS | DNS | DHCP | NAT | PowerShell Administration**
+Featured Projects
 
-Built a full enterprise-style domain environment in a virtualized homelab.  
-Implemented directory services, network services, and automated user provisioning.  
-Simulated real-world onboarding, access control, and IT support workflows.
+Active Directory Enterprise Lab
 
-**Repository**  
-https://github.com/ZacharyLopez/active-directory-enterprise-lab
+Windows Server 2022 | Active Directory Domain Services | DNS | DHCP | NAT | PowerShell
 
----
+Built an enterprise-style Windows domain environment using virtualization to simulate common infrastructure administration and IT support workflows.
 
-### Elastic Stack SIEM Home Lab  
-**Elastic SIEM | Kali Linux | Log Collection | Security Monitoring**
+Key implementations:
 
-Deployed Elastic Stack SIEM for centralized log collection and security monitoring.  
-Simulated network scans and analyzed security events in SIEM dashboards.  
-Created alert rules and practiced basic incident investigation.
+* Deployed and configured Windows Server 2022.
+* Implemented Active Directory Domain Services.
+* Configured DNS, DHCP, and network address translation.
+* Created and managed domain users and organizational units.
+* Practiced user provisioning and access management.
+* Used PowerShell for administrative tasks and basic automation.
+* Simulated common authentication and connectivity troubleshooting scenarios.
 
----
+Skills demonstrated: Windows Server Administration, Identity Management, Networking, PowerShell, Enterprise Troubleshooting.
 
-### IT Systems and Hardware Projects
+View Project Repository
 
-• Disk cloning and system migration from HDD to SSD  
-• RAM and NVMe SSD installation with thermal management  
-• Laptop battery replacement and system optimization  
-• Windows authentication and network troubleshooting  
+⸻
 
----
+Elastic Stack SIEM Home Lab
 
-## Certifications
+Elastic Stack | Kali Linux | Log Collection | Security Monitoring | Incident Investigation
 
-| Certification | Status | Verification |
-|--------------|--------|--------------|
-| AWS Certified Cloud Practitioner | Issued Sep 2025 | [Verify](https://www.credly.com/badges/6f54752b-899e-417c-aded-5e99040e35e1/public_url) |
-| CompTIA A+ | Issued Apr 2025 | [Verify](https://www.credly.com/badges/7e6688ec-8721-4abe-9e2b-7b88b2db367d) |
-| CompTIA Network+ | Issued Jun 2025 | [Verify](https://www.credly.com/earner/earned/badge/e457ecc0-d112-4fd5-9eb7-4f5d525a6adc) |
-| Microsoft Azure Fundamentals (AZ-900) | Issued Jun 2025 | [Verify](https://learn.microsoft.com/en-us/users/0x1zak/credentials/222d66ebd724922e) |
-| Microsoft 365 Fundamentals (MS-900) | Issued 2025 | [Verify](https://learn.microsoft.com/en-us/users/0x1zak/credentials/515b1add3fe43aac) |
-| ITIL 4 Foundation | Issued May 2025 | [Verify](https://drive.google.com/file/d/1LqIQu5CAI2WaeRd1oaMurxVdMkKTmME-/view) |
-| TestOut PC Pro | Issued Dec 2021 | [Verify](https://certification.platform.comptia.org/verifycert/6-1C6-HR687) |
-| CompTIA Project+ | Issued Mar 2026 | [Verify](https://www.credly.com/badges/de97f8fe-60c3-4ff7-9f4a-cd8d82c0aa6d/linked_in_profile) |
-| CompTIA Security+ | Issued Aug 2026 | [Verify](https://www.credly.com/earner/earned/badge/39e5858a-e1df-45b9-814d-39bed4cec45b) |
+Developed a security monitoring lab to gain practical experience with centralized logging, security event analysis, and threat detection.
 
+Key implementations:
 
----
+* Deployed an Elastic Stack SIEM environment.
+* Configured centralized log collection and monitoring.
+* Generated simulated network activity using security testing tools.
+* Analyzed security events and activity in SIEM dashboards.
+* Created detection rules and reviewed security alerts.
+* Practiced introductory incident investigation workflows.
 
-## Education
+Skills demonstrated: Security Monitoring, Log Analysis, SIEM Administration, Network Security, Incident Investigation.
 
-**Bachelor of Science in Information Technology**  
-Western Governors University  
-Expected Graduation Nov 2026  
+⸻
 
-**Associate of Technical Studies in Information Technology**  
-Eastern Gateway Community College  
-Completed December 2023
+IT Systems & Hardware Projects
 
----
+Windows | Hardware Diagnostics | Storage | System Migration
 
-## Current Learning
+Practical hardware and operating system projects focused on workstation reliability, troubleshooting, and performance.
 
- 
-• Linux system administration  
-• SCCM and endpoint management  
-• Enterprise IT lab development  
-• Cloud identity and access management  
+Projects include:
 
----
+* HDD-to-SSD disk cloning and operating system migration.
+* RAM and NVMe SSD installation and upgrades.
+* Laptop battery replacement and hardware maintenance.
+* Thermal management and system performance diagnostics.
+* Windows authentication and connectivity troubleshooting.
+* Workstation configuration, maintenance, and optimization.
 
-## Connect
+Skills demonstrated: Hardware Troubleshooting, Endpoint Support, System Diagnostics, Windows Administration.
 
-**LinkedIn**  
-http://linkedin.com/in/0x1zlopez  
+⸻
 
-**Linktree**  
-https://linktr.ee/0x1zak  
+Certifications
 
-**Email**  
-zach26686@gmail.com  
+Certification	Date Earned	Verification
+CompTIA Security+	Aug 2026	Verify
+CompTIA Network+	Jun 2025	Verify
+CompTIA A+	Apr 2025	Verify
+CompTIA Project+	Mar 2026	Verify
+AWS Certified Cloud Practitioner	Sep 2025	Verify
+Microsoft Azure Fundamentals (AZ-900)	Jun 2025	Verify
+Microsoft 365 Fundamentals (MS-900)	2025	Verify
+ITIL 4 Foundation	May 2025	Verify
+TestOut PC Pro	Dec 2021	Verify
 
----
+⸻
 
-Thank you for visiting my GitHub. I document hands-on labs and practical IT projects as I grow into systems and cloud administration roles.
+Education
+
+Bachelor of Science in Information Technology
+
+Western Governors University
+Expected Graduation: November 2026
+
+Associate of Technical Studies in Information Technology
+
+Eastern Gateway Community College
+Graduated: December 2023
+
+⸻
+
+Current Technical Development
+
+Continuously expanding my technical capabilities through independent study, certification preparation, and practical lab environments.
+
+Current areas of focus:
+
+* Linux system administration and command-line operations.
+* Windows Server and Active Directory administration.
+* Microsoft Entra ID and cloud identity management.
+* SCCM and enterprise endpoint management.
+* PowerShell scripting and IT automation.
+* Azure and AWS infrastructure fundamentals.
+* Enterprise networking and security architecture.
+
+Long-Term Objective: Develop expertise in designing, securing, and managing scalable cloud infrastructure, with the goal of progressing into Cloud Architecture.
+
+⸻
+
+Connect With Me
+
+LinkedIn: linkedin.com/in/0x1zlopez
+
+Professional Links: linktr.ee/0x1zak
+
+Email: zach26686@gmail.com
+
+⸻
+
+Documenting practical IT projects, technical labs, and infrastructure implementations while continuing to develop expertise in enterprise systems and cloud technologies.

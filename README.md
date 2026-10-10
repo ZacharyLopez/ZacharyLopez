@@ -3,9 +3,7 @@
 
 ### Systems Administration | Cloud Infrastructure | Cybersecurity
 
-IT professional with experience supporting enterprise environments, administering Microsoft 365, troubleshooting Windows systems, and resolving identity, endpoint, and network issues.
-
-I build and document hands-on infrastructure and cybersecurity labs focused on Windows Server, Active Directory, networking, security monitoring, and PowerShell administration.
+IT professional experienced in enterprise technical support, Microsoft 365 administration, Windows systems, and network troubleshooting. I develop hands-on infrastructure and cybersecurity labs focused on Active Directory, Windows Server, PowerShell, and security monitoring.
 
 Currently completing a **Bachelor of Science in Information Technology at Western Governors University (Expected November 2026).**
 
@@ -103,7 +101,7 @@ Experience supporting business users in managed IT environments, resolving techn
 | Certification | Earned | Verification |
 | --- | --- | --- |
 | **CompTIA Security+** | Aug 2026 | [View Credential](https://www.credly.com/badges/39e5858a-e1df-45b9-814d-39bed4cec45b/public_url) |
-| **CompTIA Network+** | Jun 2025 | [View Credential](https://www.credly.com/earner/earned/badge/e457ecc0-d112-4fd5-9eb7-4f5d525a6adc) |
+| **CompTIA Network+** | Jun 2025 | [View Credential](https://www.credly.com/badges/2bc0379e-3125-426b-93cf-c01e303b8ad4/public_url) |
 | **CompTIA A+** | Apr 2025 | [View Credential](https://www.credly.com/badges/7e6688ec-8721-4abe-9e2b-7b88b2db367d) |
 | **CompTIA Project+** | Mar 2026 | [View Credential](https://www.credly.com/badges/de97f8fe-60c3-4ff7-9f4a-cd8d82c0aa6d/linked_in_profile) |
 | **AWS Cloud Practitioner** | Sep 2025 | [View Credential](https://www.credly.com/badges/6f54752b-899e-417c-aded-5e99040e35e1/public_url) |
